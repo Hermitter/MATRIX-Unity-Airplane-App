@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrixGameTest.CSharp.Plugins", "matrixGameTest.CSharp.Plugins.csproj", "{D8D5F8A3-7B8A-DDE8-7F1B-5B436D43FB8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrixGameTest.CSharp", "matrixGameTest.CSharp.csproj", "{55BC41BA-B2D9-8C1B-727B-456351B9EAE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D5F8A3-7B8A-DDE8-7F1B-5B436D43FB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D5F8A3-7B8A-DDE8-7F1B-5B436D43FB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D5F8A3-7B8A-DDE8-7F1B-5B436D43FB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D5F8A3-7B8A-DDE8-7F1B-5B436D43FB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BC41BA-B2D9-8C1B-727B-456351B9EAE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BC41BA-B2D9-8C1B-727B-456351B9EAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BC41BA-B2D9-8C1B-727B-456351B9EAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BC41BA-B2D9-8C1B-727B-456351B9EAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

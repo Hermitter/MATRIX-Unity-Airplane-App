@@ -1,5 +1,8 @@
-Uses the MATRIX Gyroscope to play a unity game
+# MATRIX-Unity-Airplane-App
 
-Webgame Hosted in RASP-IP:3001
+Control an airplane, inside a unity game, with the MATRIX gyroscope
+***Project Is Not Finished***
+**README Will Update After Project Completion**
 
-GameServer Hosted in RASP-IP:3000
+<b>Screenshot:</b>
+![ScreenShot](https://raw.githubusercontent.com/Hermitter/MATRIX-Unity-Airplane-App/master/screenShot1.png)

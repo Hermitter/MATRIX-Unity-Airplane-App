@@ -5,4 +5,4 @@ Control an airplane, inside a unity game, with the MATRIX gyroscope
 **README Will Update After Project Completion**
 
 <b>Screenshot:</b>
-![ScreenShot](https://raw.githubusercontent.com/Hermitter/MATRIX-Unity-Airplane-App/master/screenShot1.png)
+![ScreenShot](https://raw.githubusercontent.com/Hermitter/MATRIX-Unity-Airplane-App/master/start-screen.png)

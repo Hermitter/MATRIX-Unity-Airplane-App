@@ -1,4 +1,7 @@
 # MATRIX-Unity-Airplane-App
+
+![Demo](https://github.com/Hermitter/MATRIX-Unity-Airplane-App/blob/MATRIX-Core-Setup/PlaneGameDemo.gif)
+
 Control an airplane, inside a unity game, with the MATRIX gyroscope. This MATRIX Core branch has moved away from MOS for improved performance and maintainability for when this demo is showcased in areas with spotty WiFi.
 
 # First Time Setup
@@ -18,5 +21,5 @@ This app comes with a mac Desktop app, but there is a webpage version of the gam
 # Project Is Not Finished
 **README Will Update After Project Completion**
 
-<b>Screenshot:</b>
+<b>Start Screen:</b>
 ![ScreenShot](https://raw.githubusercontent.com/Hermitter/MATRIX-Unity-Airplane-App/master/start-screen.png)
